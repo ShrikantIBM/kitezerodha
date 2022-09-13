@@ -21,7 +21,7 @@ public class Baseclass {
 				
 				//Global wait.
 				driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(40));
-		                System.out.println("shrikant");
+		                 System.out.println("shrikant");
 	}
 
 }
